@@ -1,6 +1,7 @@
 HELP.md
 .gradle
 build/
+bin/
 logs/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
@@ -34,3 +35,5 @@ out/
 
 ### Mac ###
 **/.DS_Store
+
+kompose
